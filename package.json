@@ -1,0 +1,11 @@
+{
+  "name": "node-server",
+  "version": "0.0.1",
+  "description": "Generic Node Server for me to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry White",
+  "license": "MIT"
+}
